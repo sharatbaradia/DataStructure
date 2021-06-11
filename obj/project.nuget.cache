@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2eZEXdjLPH+HRWof5Z3HAJyz17sY6Rxgrh0QJo/WqlikJEF13fdGDgj9/VkUbc0Bo8qbgtSkzmLl8gs12SNd4A==",
+  "dgSpecHash": "211BxSDVwi3axA1YBiFF/D11TZ1LT/d4uu0bFP6CwpKrBQ76snxI0Sq3Xfe0o4Koji8rQYjlCr3ODoD3AmCxvw==",
   "success": true,
   "projectFilePath": "/Volumes/MyDrive/Workspace/DataStructure/DataStructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sharatbaradia/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
